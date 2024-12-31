@@ -1,0 +1,1 @@
+export const FIRST_TIME_LAUNCH = 'isFirstLaunch'
